@@ -1,8 +1,7 @@
 package com.atguigu.git;
 
 /**
- * @author:
- * @description:
+ * @author xl
  */
 
 public class GitTest {
